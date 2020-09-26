@@ -1,0 +1,4 @@
+- seta o Path
+- seta o JAVA_HOME
+- javac nomeClasse.java
+- java nomeClasse
